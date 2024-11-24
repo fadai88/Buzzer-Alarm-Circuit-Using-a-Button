@@ -1,10 +1,9 @@
 Components Needed
-  Active buzzer (one that buzzes with direct current)
-  Button (for manual triggering)
-  10 kΩ resistor (for the photoresistor circuit)
-  Breadboard
-  Jumper wires
-  9V battery or 5V power supply
+  - Active buzzer (one that buzzes with direct current)
+  - Button (for manual triggering)
+  - Breadboard
+  - Jumper wires
+  - 9V battery or 5V power supply
 
 
 Insert the active buzzer into the breadboard.
